@@ -1,0 +1,108 @@
+#all{
+    border: 2px solid #ffffff;
+    background-color: cadetblue;
+    height: 486px;
+    width: 332px;
+    text-align: center;
+    position: relative;
+    top: 63px;
+    left: 251px;
+    filter: drop-shadow(0px 0px 7px lightyellow);
+    border-radius: 10px;
+    padding: 50px;
+    background: transparent;
+    backdrop-filter: blur(50px);
+}
+h1{
+    font-family: "Audiowide", sans-serif;
+    color:#ffffff;
+    position: relative;
+    top: -20px;
+    font-size:xx-large;
+}
+body{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+body{
+    background-image: url(lucia.jpeg);
+    background-size: cover;
+}
+.Full input{
+    height: 41px;
+    width: 307px;
+    border-radius: 30px;
+    background: transparent;
+    border-color: lightyellow;
+    margin-bottom: 20px;
+    color: lightyellow;
+    font-family: "Audiowide", sans-serif;
+}
+.Email input{
+    height: 41px;
+    width: 307px;
+    border-radius: 30px;
+    background: transparent;
+    border-color: lightyellow;
+    margin-bottom: 20px;
+    color: lightyellow;
+    font-family: "Audiowide", sans-serif;
+}
+.Rem input{
+    height: 41px;
+    width: 307px;
+    border-radius: 30px;
+    background: transparent;
+    border-color: lightyellow;
+    margin-bottom: 20px;
+    color: lightyellow;
+    font-family: "Audiowide", sans-serif;
+}
+.pass input{
+    height: 41px;
+    width: 307px;
+    border-radius: 30px;
+    background: transparent;
+    border-color: lightyellow;
+    margin-bottom: 20px;
+    color: lightyellow;
+    font-family: "Audiowide", sans-serif;
+}
+.passC input{
+    height: 41px;
+    width: 307px;
+    border-radius: 30px;
+    background: transparent;
+    border-color: lightyellow;
+    margin-bottom: 20px;
+    color: lightyellow;
+    font-family: "Audiowide", sans-serif;
+}
+button{
+    height: 54px;
+    width: 318px;
+    border-radius: 30px;
+    font-family: "Audiowide", sans-serif;
+    font-weight: bolder;
+    position: relative;
+    top: 15px;
+}
+.dont{
+    color: lightyellow;
+    position: relative;
+    top: 24px;
+    left: 6px;
+    font-family: "Audiowide", sans-serif;
+    font-size: medium;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    font-size: medium;
+    margin-right: 20px;
+    text-align: right;
+    position: relative;
+    left: 4px;
+}
